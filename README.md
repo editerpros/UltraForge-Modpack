@@ -10,7 +10,7 @@ UltraForge is a lightweight but feature-rich Minecraft survival enhancement modp
 
 🏹 Improved Progression & Balanced Gameplay
 
-💎 Performance Optimizations for Low/Medium PCs
+💎 Performance Optimisations for Low/Medium PCs
 
 🎨 Better Visuals & UI Improvements
 
